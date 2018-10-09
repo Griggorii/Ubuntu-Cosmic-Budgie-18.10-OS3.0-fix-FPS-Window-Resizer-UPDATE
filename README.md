@@ -10,3 +10,5 @@ su
 
 && update-initramfs -u && update-grub
 
+Reboot
+
