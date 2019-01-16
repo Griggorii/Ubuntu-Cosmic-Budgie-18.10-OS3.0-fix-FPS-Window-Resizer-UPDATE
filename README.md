@@ -1,4 +1,4 @@
-# Ubuntu-Cosmic-Budgie-18.10-OS3.0-fix-FPS-Window-Resizer-UPDATE
+# Ubuntu 16.04
 
 Run terminal command
 
