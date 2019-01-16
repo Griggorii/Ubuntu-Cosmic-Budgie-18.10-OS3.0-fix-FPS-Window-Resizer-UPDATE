@@ -28,6 +28,8 @@ Reboot
 
 Kodi TV 18.0 
 
+sudo apt purge kodi
+
 sudo apt remove --purge kodi kodi-bin
 
 sudo apt purge kodi kodi.bin
