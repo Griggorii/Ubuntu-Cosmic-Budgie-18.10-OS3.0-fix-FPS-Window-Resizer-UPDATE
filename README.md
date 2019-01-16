@@ -24,7 +24,15 @@ su
 
 Reboot
 
-optional Budgie OS3.0 tearing testing disable intel + all videokard
+На 16.04 можно поставить самый новый Kodi TV как поставить ниже
 
-My project OS3.0 https://www.youtube.com/watch?v=cs4IJLdpfb8
+Kodi TV 18.0 
 
+sudo apt remove --purge kodi kodi-bin
+sudo apt purge kodi kodi.bin
+sudo add-apt-repository ppa:team-xbmc/unstable
+rm -rf ~/.kodi
+rm -rf /usr/lib/x86_64-linux-gnu/kodi/
+sudo update && sudo aapt install kodi
+
+Мой конфиг для kodi https://www.youtube.com/watch?v=_p5mTuj_Etc 
