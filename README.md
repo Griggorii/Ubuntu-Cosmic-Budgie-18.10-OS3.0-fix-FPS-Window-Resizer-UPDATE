@@ -40,6 +40,6 @@ rm -rf ~/.kodi
 
 rm -rf /usr/lib/x86_64-linux-gnu/kodi/
 
-sudo update && sudo aapt install kodi
+sudo update && sudo apt install kodi
 
 Мой конфиг для kodi https://www.youtube.com/watch?v=_p5mTuj_Etc 
