@@ -43,3 +43,5 @@ rm -rf /usr/lib/x86_64-linux-gnu/kodi/
 sudo update && sudo apt install kodi
 
 Мой конфиг для kodi https://www.youtube.com/watch?v=_p5mTuj_Etc 
+
+Youtube My Opera Html5 https://github.com/Griggorii/Ubuntu-Cosmic-Budgie-18.10-OS3.0-fix-FPS-Window-Resizer-UPDATE/edit/master/README.md если на ютубе типа будет говорить что у вас в моей 16.04 нету html 5 , запускать с бинарника opera поставив в свойствах запуска как программы или командой chmod
