@@ -1,4 +1,4 @@
-# Ubuntu 16.04
+# Ubuntu 16.04 (не для 18.10)
 
 Download etc.zip https://github.com/Griggorii/Ubuntu-Cosmic-Budgie-18.10-OS3.0-fix-FPS-Window-Resizer-UPDATE/blob/master/etc.zip
 
