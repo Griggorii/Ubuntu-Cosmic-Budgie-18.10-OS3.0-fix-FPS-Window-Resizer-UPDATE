@@ -1,5 +1,7 @@
 # Ubuntu 16.04
 
+Download etc.zip https://github.com/Griggorii/Ubuntu-Cosmic-Budgie-18.10-OS3.0-fix-FPS-Window-Resizer-UPDATE/blob/master/etc.zip
+
 Run terminal command
 
 sudo rm -rf /etc/X11/xorg.conf.d
