@@ -44,4 +44,4 @@ sudo update && sudo apt install kodi
 
 Мой конфиг для kodi https://www.youtube.com/watch?v=_p5mTuj_Etc 
 
-Youtube My Opera Html5 https://www28.zippyshare.com/v/6W3L8FO4/file.html если на ютубе типа будет говорить что у вас в моей 16.04 нету html 5 , запускать с бинарника opera поставив в свойствах запуска как программы или командой chmod
+Youtube My Opera Html5 https://www28.zippyshare.com/v/6W3L8FO4/file.html если на ютубе типа будет говорить что у вас в моей 16.04 нету html 5 , запускать с бинарника opera поставив в свойствах запуска как программы или командой chmod новая опера у них почему то не показывает html5 , а моя показывает , но учтите должна быть моя сборка https://www.youtube.com/watch?v=e3EGMEC1wqA
