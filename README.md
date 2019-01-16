@@ -29,10 +29,15 @@ Reboot
 Kodi TV 18.0 
 
 sudo apt remove --purge kodi kodi-bin
+
 sudo apt purge kodi kodi.bin
+
 sudo add-apt-repository ppa:team-xbmc/unstable
+
 rm -rf ~/.kodi
+
 rm -rf /usr/lib/x86_64-linux-gnu/kodi/
+
 sudo update && sudo aapt install kodi
 
 Мой конфиг для kodi https://www.youtube.com/watch?v=_p5mTuj_Etc 
