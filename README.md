@@ -44,6 +44,8 @@ sudo update && sudo apt install kodi
 
 Мой конфиг для kodi https://www.youtube.com/watch?v=_p5mTuj_Etc 
 
+Kodi TV 18.0 FIX Python cryptography fix https://www43.zippyshare.com/v/zP9bjO29/file.html
+
 Youtube My Opera Html5 https://www26.zippyshare.com/v/060fcm9r/file.html https://www.youtube.com/html5 если на ютубе типа будет говорить что у вас в моей 16.04 нету html 5 , запускать с бинарника opera поставив в свойствах запуска как программы или командой chmod новая опера у них почему то не показывает html5 , а моя показывает , но учтите должна быть моя сборка https://www.youtube.com/watch?v=e3EGMEC1wqA
 
 Opera можно заменить в /usr/lib/x86_64-linux-gnu/ но тогда гит хаб перестает редактироваться , значит придётся так пока пользоваться пока не выпустят вот такую opera как я дал с поддержкой html5 и допилят поддержку git
